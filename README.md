@@ -4,8 +4,9 @@ We formed a group to discuss and learn about the data science. We meet every alt
 
 - Titanic
   - Kaggle Dataset kernel
-  - Basics of machine learning
-  - Learned about data preprocessing and data visualization
+  - Traditional machine learning
+  - Data preprocessing and data visualization
+  - [Kaggle Link](https://www.kaggle.com/dejavu23/titanic-survival-seaborn-and-ensembles/notebook)
 
 
 - Movie Sentiment Analysis
@@ -23,6 +24,7 @@ We formed a group to discuss and learn about the data science. We meet every alt
     - Word cloud (top unigrams, bigrams, trigrams)
     - Confusion matrix
   - In progress:-
-    - Corpus creation
+    - Corpus creation for word embeddings
     - Word Embeddings (word2vec, glove, fasttext)
     - Deep Learning algorithms
+  - [Dataset]()
