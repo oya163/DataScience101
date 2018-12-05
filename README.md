@@ -27,4 +27,4 @@ We formed a group to discuss and learn about the data science. We meet every alt
     - Corpus creation for word embeddings
     - Word Embeddings (word2vec, glove, fasttext)
     - Deep Learning algorithms
-  - [Dataset]()
+  - [Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
