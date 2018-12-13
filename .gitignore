@@ -1,7 +1,7 @@
-movie\data 
-titanic\input 
-quora\train.csv 
-quora\test.csv 
+./movie/data/ 
+./titanic/input/ 
+./quora/train.csv/ 
+./quora/test.csv/ 
 .ipynb_checkpoints/ 
 .idea/ 
-movie\.vector_cache 
+./movie/.vector_cache 
