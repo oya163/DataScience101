@@ -23,8 +23,16 @@ We formed a group to discuss and learn about the data science. We meet every alt
   - Visualization
     - Word cloud (top unigrams, bigrams, trigrams)
     - Confusion matrix
-  - In progress:-
-    - Corpus creation for word embeddings
-    - Word Embeddings (word2vec, glove, fasttext)
-    - Deep Learning algorithms
+    - ROC AUC curve
+    - Histogram of top negative/positive features
+  - Corpus creation for word embeddings
+  - Use of gensim for word embeddings word2vec
   - [Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+
+
+- Quora Insincere Questions Analysis
+  - [ ] Text preprocessing
+  - [ ] Traditional machine learning
+  - [ ] Deep learning
+  - [Dataset](https://www.kaggle.com/c/quora-insincere-questions-classification/data)
+  
