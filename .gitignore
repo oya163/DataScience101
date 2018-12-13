@@ -2,3 +2,5 @@ movie\data
 titanic\input 
 quora\train.csv 
 quora\test.csv 
+.ipynb_checkpoints/ 
+.idea/ 
