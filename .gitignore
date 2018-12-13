@@ -4,3 +4,4 @@ quora\train.csv
 quora\test.csv 
 .ipynb_checkpoints/ 
 .idea/ 
+movie\.vector_cache 
